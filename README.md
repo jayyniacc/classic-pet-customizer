@@ -1,2 +1,3 @@
 # classic-pet-customizer
-a small side project for people to customize big/small pets! heavily inspired by brightsunshine's customizer.
+please remember to credit me when you use these.
+this is project is heavily inspired by brightsunshine's pet customizer.
